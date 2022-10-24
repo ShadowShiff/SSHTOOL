@@ -1,6 +1,6 @@
 # SSSHTOOL
 run this script in cmd.
-if progrsm don't start, install all modules.
+if program don't start, install all modules.
 example:
 Traceback (most recent call last):
 File "SSSHTOOL.py", line 9, in <module>
